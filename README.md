@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karishma-battina
+- 👋 Hi, I’m Karishma Battina
 - 👀 I’m interested in playing Badminton, cooking and writing.
 - 🌱 I’m currently working at Dell Technologies
 - 💞️ I’m looking to collaborate on Devops
