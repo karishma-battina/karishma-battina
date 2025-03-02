@@ -18,4 +18,4 @@ I'm Karishma 👋 a passionate Cloud/DevOps engineer with a strong background in
 
 ### 🏆 Certifications
 
-![Certified Kubernetes Application Developer](https://img.shields.io/badge/Kubernetes%20Certified-Kubernetes-Application%20Developer-486C8D?style=for-the-badge)
+- Certified Kubernetes Application Developer
