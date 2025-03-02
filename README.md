@@ -19,15 +19,3 @@ I'm Karishma 👋 a passionate Cloud/DevOps engineer with a strong background in
 ### 🏆 Certifications
 
 ![Certified Kubernetes Application Developer](https://img.shields.io/badge/Kubernetes%20Certified-Kubernetes-Application%20Developer-486C8D?style=for-the-badge)
-
-
-#### 📊 GitHub Stats
-
-#![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdio&show_icons=true&theme=radical)
-
-### 📊 RoadMap Stats
-
-#[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/645cbf295e197f85a2c3a804?variant=dark)](https://roadmap.sh)
-
-### 📊 LeetCode Stats
-#[![Leetcode Stats](https://leetcard.jacoblin.cool/mhmdio)](https://leetcode.com/mhmdio)
