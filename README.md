@@ -1,6 +1,3 @@
-<p align="center">
-السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
-</p>
 
 ## Karishma Battina - Cloud/DevOps Engineer
 
