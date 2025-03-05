@@ -19,3 +19,4 @@ I'm Karishma 👋 a passionate Cloud/DevOps engineer with a strong background in
 ### 🏆 Certifications
 
 - Certified Kubernetes Application Developer
+- Microsoft certified: Azure Devops Expert
