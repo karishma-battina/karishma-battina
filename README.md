@@ -10,10 +10,11 @@ I'm Karishma 👋 a passionate Cloud/DevOps engineer with a strong background in
 - **CI/CD**: Jenkins, GitLab CI/CD, GitHub Actions
 - **Configuration Management**: Ansible, Puppet
 - **IaC**: Terraform
-- **Monitoring**: Prometheus, Grafana, ELK Stack, CheckMK
+- **Monitoring**: Prometheus, Grafana, ELK Stack, CheckMK, Nagios
 - **Scripting**: Bash, Python, Powershell
 - **Version Control**: Git, GitHub, GitLab
 - **Security**: Snyk
+- **Machine Learning**: Kaggle learner, Competitions Contributor
 
 
 ### 🏆 Certifications
