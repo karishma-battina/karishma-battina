@@ -14,7 +14,7 @@ I'm Karishma 👋 a passionate Cloud/DevOps engineer with a strong background in
 - **Scripting**: Bash, Python, Julia, Powershell
 - **Version Control**: Git, GitHub, GitLab
 - **Security**: Snyk
-- **Machine Learning**: Kaggle learner, Competitions Contributor
+- **Machine Learning**: Competitions Contributor
 
 
 ### 🏆 Certifications
