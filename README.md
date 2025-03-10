@@ -6,7 +6,7 @@ I'm Karishma 👋 a passionate Cloud/DevOps engineer with a strong background in
 ### 🔧 Technologies and Tools
 
 - **Cloud**: Azure, AWS, GCP
-- **Containerization**: Docker, Kubernetes, AKS
+- **Containerization**: Docker, Kubernetes, AKS, EKS
 - **CI/CD**: Jenkins, GitLab CI/CD, GitHub Actions
 - **Configuration Management**: Ansible, Puppet
 - **IaC**: Terraform
@@ -21,3 +21,4 @@ I'm Karishma 👋 a passionate Cloud/DevOps engineer with a strong background in
 
 - Certified Kubernetes Application Developer
 - Microsoft certified: Azure Devops Expert
+- Microsoft certified: Azure Administrator Associate
