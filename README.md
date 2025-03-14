@@ -5,7 +5,7 @@ I'm Karishma 👋 a passionate Cloud/DevOps engineer with a strong background in
 
 ### 🔧 Technologies and Tools
 
-- **Cloud**: Azure, AWS, GCP
+- **Cloud**: Azure
 - **Containerization**: Docker, Kubernetes, AKS, EKS
 - **CI/CD**: Jenkins, GitLab CI/CD, GitHub Actions, Azure Devops
 - **Configuration Management**: Ansible, Puppet
