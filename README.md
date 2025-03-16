@@ -5,12 +5,12 @@ I'm Karishma 👋 a passionate Cloud/DevOps engineer with a strong background in
 
 ### 🔧 Technologies and Tools
 
-- **Cloud**: Azure
+- **Cloud**: Azure, AWS
 - **Containerization**: Docker, Kubernetes, AKS, EKS
 - **CI/CD**: Jenkins, GitLab CI/CD, GitHub Actions, Azure Devops
 - **Configuration Management**: Ansible, Puppet
 - **IaC**: Terraform
-- **Monitoring**: Prometheus, Grafana, ELK Stack, CheckMK, Nagios
+- **Monitoring**: Prometheus, Grafana, ELK Stack
 - **Scripting**: Bash, Python, Julia, Powershell
 - **Version Control**: Git, GitHub, GitLab
 - **Security**: Snyk
